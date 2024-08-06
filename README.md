@@ -1,2 +1,2 @@
-# C---UniFAJ
+# C UniFAJ
 'C' college classes
